@@ -1,0 +1,32 @@
+img{
+  width: 100px;
+}
+
+div{
+  position:absolute;
+  left: 40%;
+  top:27%;
+  background-color: white;
+  padding:30px 30px 38px;
+  text-align: center;
+  padding: 20px;
+  border-radius:10px;
+}
+
+body{
+  background-color:skyblue;
+}
+select{
+  border-width: 3px;
+  padding: 10px;
+  border-radius:10px;
+  width: 120px;
+}
+
+button{
+  width: 100%;
+  padding: 10px;
+  border-radius:10px;
+  background-color:skyblue;
+  border-width: 3px;
+}
